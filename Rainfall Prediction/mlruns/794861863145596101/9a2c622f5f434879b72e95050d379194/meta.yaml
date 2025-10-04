@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794861863145596101/9a2c622f5f434879b72e95050d379194/artifacts
+end_time: 1759590212717
+entry_point_name: ''
+experiment_id: '794861863145596101'
+lifecycle_stage: active
+run_id: 9a2c622f5f434879b72e95050d379194
+run_name: dashing-tern-186
+run_uuid: 9a2c622f5f434879b72e95050d379194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759589897641
+status: 3
+tags: []
+user_id: Vaibhav Lokhande

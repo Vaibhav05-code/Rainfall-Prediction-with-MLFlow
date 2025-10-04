@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/448119003936016403/18bb5391841f4403837b6d2990ad617c/artifacts
+end_time: 1759589533700
+entry_point_name: ''
+experiment_id: '448119003936016403'
+lifecycle_stage: active
+run_id: 18bb5391841f4403837b6d2990ad617c
+run_name: abrasive-rat-817
+run_uuid: 18bb5391841f4403837b6d2990ad617c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759589513433
+status: 3
+tags: []
+user_id: Vaibhav Lokhande

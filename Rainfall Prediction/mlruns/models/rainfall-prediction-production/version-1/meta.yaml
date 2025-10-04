@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1759590796666
+current_stage: None
+description: ''
+last_updated_timestamp: 1759590796666
+name: rainfall-prediction-production
+run_id: 9a2c622f5f434879b72e95050d379194
+run_link: ''
+source: models:/Random Forest Model Data/1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/794861863145596101/9a2c622f5f434879b72e95050d379194/artifacts/Random
+  Forest Model Data
+user_id: null
+version: 1
